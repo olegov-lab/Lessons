@@ -151,6 +151,7 @@ h2 {
   padding-top: 5px;
   padding-bottom: 5px;
   margin: 15px 0 5px 0;
+  overflow: hidden;
 }
 
 .sidebar {
@@ -167,4 +168,18 @@ h2 {
   border: none;
   margin-top: 0;
   padding: 0;
+}
+
+p {
+  color: rgb(1, 1, 22);
+  font-size: 2em;
+  letter-spacing: 2px;
+  margin: 10px 10px 20px 10px;
+}
+
+.copy {
+  border-top: 2px solid rgb(14, 56, 67);
+  color: tomato;
+  font-size: 0.75em;
+  text-transform: uppercase;
 }
